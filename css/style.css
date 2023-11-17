@@ -64,4 +64,49 @@ section, div{
     line-height: 58px; /* 362.5% */
     letter-spacing: -0.1px;
 }
-h1{}
+.imagen{
+    color: #FFF;
+    font-family: Open Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 58px; /* 362.5% */
+    letter-spacing: -0.1px;
+}
+.image{
+    color: #FFF;
+    font-family: Open Sans;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 46px; /* 164.286% */
+    letter-spacing: -0.175px;
+}
+.imag{
+    color: #FFF;
+    font-family: Open Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px; /* 200% */
+    letter-spacing: -0.1px;
+}
+.separacion{
+    text-align: right;
+    color: #FF5480;
+    font-family: Open Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 58px; /* 362.5% */
+    letter-spacing: -0.1px;
+}
+.lista{
+    color: #000;
+    font-family: Open Sans;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 58px; /* 161.111% */
+    letter-spacing: -0.225px;
+}
