@@ -101,7 +101,7 @@ section, div{
     line-height: 58px; /* 362.5% */
     letter-spacing: -0.1px;
 }
-.lista{
+.titulo{
     color: #000;
     font-family: Open Sans;
     font-size: 36px;
@@ -109,4 +109,131 @@ section, div{
     font-weight: 700;
     line-height: 58px; /* 161.111% */
     letter-spacing: -0.225px;
+}
+.semititulo{
+    color: #111210;
+font-family: Open Sans;
+font-size: 24px;
+font-style: normal;
+font-weight: 600;
+line-height: 58px; /* 241.667% */
+letter-spacing: -0.15px;
+}
+
+.primera{
+    border-radius: 8px;
+    background: #FFF;
+    box-shadow: 0px 0px 8px 0px rgba(0, 0, 0, 0.08);
+
+}
+.segunda{
+    fill: #FFF;
+    filter: drop-shadow(0px 0px 8px rgba(0, 0, 0, 0.08));
+
+    flex-shrink: 0;
+    float: right;
+}
+
+.title{
+    color: #9B9B9B;
+    font-family: Open Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 58px; /* 362.5% */
+    letter-spacing: -0.1px;
+}
+
+.texto{
+    color: #111210;
+font-family: Open Sans;
+font-size: 18px;
+font-style: normal;
+font-weight: 600;
+line-height: 30px; /* 166.667% */
+letter-spacing: -0.112px;
+}
+
+.fondo{
+    background-image: url(/assets/img/fondo.png);
+}
+
+.segundo{
+    color: #FFF;
+    font-family: Open Sans;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 46px; /* 164.286% */
+    letter-spacing: -0.175px;
+}
+
+.primero{
+    color: #FFF;
+    font-family: Open Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 58px; /* 362.5% */
+    letter-spacing: -0.1px;
+}
+
+.tercero{
+    color: #FFF;
+    font-family: Open Sans;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px; /* 200% */
+    letter-spacing: -0.1px;
+}
+
+.detras{
+    background-image: url(/assets/img/chap4_ent_sprint-1920x1080.png);
+}
+ #uno{
+    color: #9B9B9B;
+font-family: Open Sans;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 58px; /* 362.5% */
+letter-spacing: -0.1px;
+ }
+ #dos{
+    color: #111210;
+font-family: Open Sans;
+font-size: 28px;
+font-style: normal;
+font-weight: 600;
+line-height: 46px; /* 164.286% */
+letter-spacing: -0.175px;
+ }
+ #tres{
+    color: #9B9B9B;
+font-family: Open Sans;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px; /* 200% */
+letter-spacing: -0.1px;
+ }
+
+#fondo{
+    background-image: url(/assets/img/chap1_ent_sprint-1920x1080.png);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.red{
+    color: red;
 }
