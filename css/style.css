@@ -232,7 +232,21 @@ font-weight: 400;
 line-height: normal;
 text-align: center;
 }
-
+#butun{
+    color: #FF5480;
+    font-family: Open Sans;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    letter-spacing: -0.5px;
+    border-radius: 40px;
+    border: 2px solid #FF5480;
+    align-items: center;
+}
+#center{
+    text-align: center;
+}
 
 
 
